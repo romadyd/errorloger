@@ -1,0 +1,9 @@
+D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\obj\Debug\UnitTestLogNotifier.csprojResolveAssemblyReference.cache
+D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\bin\Debug\UnitTestLogNotifier.dll
+D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\bin\Debug\UnitTestLogNotifier.pdb
+D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\obj\Debug\UnitTestLogNotifier.dll
+D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\obj\Debug\UnitTestLogNotifier.pdb
+D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\bin\Debug\LogNotifier.dll
+D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\bin\Debug\LogNotifier.pdb
+D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\bin\Debug\nunit.framework.dll
+D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\bin\Debug\nunit.framework.xml

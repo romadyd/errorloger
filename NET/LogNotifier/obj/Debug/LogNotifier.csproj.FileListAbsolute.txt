@@ -1,0 +1,4 @@
+D:\Application & Development\Products\LogNotifier\LogNotifier\bin\Debug\LogNotifier.dll
+D:\Application & Development\Products\LogNotifier\LogNotifier\bin\Debug\LogNotifier.pdb
+D:\Application & Development\Products\LogNotifier\LogNotifier\obj\Debug\LogNotifier.dll
+D:\Application & Development\Products\LogNotifier\LogNotifier\obj\Debug\LogNotifier.pdb

@@ -1,0 +1,16 @@
+TimeStamp : 2017-12-13 09:07:48
+MethodName : mscorlib
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at UnitTestLogNotifier.NLoger.checkLoger() in D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\NLoger.cs:line 23
+
+TimeStamp : 2017-12-13 09:08:42
+MethodName : mscorlib
+Message : Input string was not in a correct format.
+StackTrace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at UnitTestLogNotifier.NLoger.checkLoger() in D:\Application & Development\Products\LogNotifier\UnitTestLogNotifier\NLoger.cs:line 23
+
